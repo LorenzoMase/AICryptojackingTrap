@@ -9,3 +9,4 @@ Another possibility is to generate a csv file that can be used to test the model
 
 
 The main.py script needs to be run after inserting the data required in the data repository, after that the script can be executed and by following the inputs it is possible to train the model. 
+A complete dataset with real data can be found at https://github.com/CryptojackingTrap/dataset.
