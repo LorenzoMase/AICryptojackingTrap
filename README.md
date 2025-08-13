@@ -43,7 +43,8 @@ The goal of the project is to develop a **machine learning model** to detect cry
    - Generate a test CSV.
    
 ---
-
+## Documents
+Inside the **documents** directory, it is possible to find a presentation and the thesis of the project that explain how the project was developed and technical insight.
 ## Dataset
 A complete dataset with real data is available here:  
 [https://github.com/CryptojackingTrap/dataset](https://github.com/CryptojackingTrap/dataset)
