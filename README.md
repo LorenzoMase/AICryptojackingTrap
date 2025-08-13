@@ -1,4 +1,4 @@
-# AICryptojacking Trap Project
+# AICryptojackingTrap
 
 This repository contains the code and presentation for the **AICryptojacking Trap** project.  
 The goal of the project is to develop a **machine learning model** to detect cryptojacking intrusions based on **memory features**.
