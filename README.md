@@ -5,7 +5,7 @@ The goal of the project is to develop a **machine learning model** to detect cry
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ### 1. **Data Cleaning**
 - The `DataCleaning` function processes all files with the `.out` extension located in the `data` folder.
@@ -18,7 +18,7 @@ The goal of the project is to develop a **machine learning model** to detect cry
 
 ---
 
-## ⚙️ Workflow
+## Workflow
 
 1. **CSV Generation**  
    - After cleaning and encoding, the `.csv` file is created and normalized.
@@ -33,7 +33,7 @@ The goal of the project is to develop a **machine learning model** to detect cry
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 
 1. Place your data files in the `data` directory.
 2. Run the `main.py` script.
@@ -43,6 +43,6 @@ The goal of the project is to develop a **machine learning model** to detect cry
    
 ---
 
-## 📊 Dataset
+## Dataset
 A complete dataset with real data is available here:  
 [https://github.com/CryptojackingTrap/dataset](https://github.com/CryptojackingTrap/dataset)
