@@ -36,8 +36,9 @@ The goal of the project is to develop a **machine learning model** to detect cry
 ## How to Run the Project
 
 1. Place your data files in the `data` directory.
-2. Run the `main.py` script.
-3. Follow the prompts to:
+2. Execute `pip3 install -r requirements.txt`
+3. Run the `main.py` script.
+4. Follow the prompts to:
    - Train the model, or
    - Generate a test CSV.
    
